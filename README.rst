@@ -1,4 +1,6 @@
-  .. SPDX-FileCopyrightText: 2016 - 2023 The Atlite Authors
+This is a version adapted for nextgems data, all credits are at the end
+
+.. SPDX-FileCopyrightText: 2016 - 2023 The Atlite Authors
 
   .. SPDX-License-Identifier: CC-BY-4.0
 
@@ -71,18 +73,6 @@ and we strongly recommend using either miniconda or anaconda for package
 management.
 
 To install the current stable version:
-
-with ``conda`` from `conda-forge`_
-
-.. code:: shell
-
-       conda install -c conda-forge atlite
-
-with ``pip`` from `pypi`_
-
-.. code:: shell
-
-       pip install atlite
 
 to install the most recent upstream version from GitHub
 
