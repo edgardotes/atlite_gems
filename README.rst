@@ -88,7 +88,7 @@ to install the most recent upstream version from GitHub
 
 .. code:: shell
 
-       pip install git+https://github.com/pypsa/atlite.git
+       pip install git+https://github.com/pypsa/atlite_gems.git
 
 
 Documentation
